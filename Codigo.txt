@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+Hola
+yo soy
+el 
+dev2 :)
+=======
 hola
 yo
 soy el 
 dev1
+>>>>>>> develop
